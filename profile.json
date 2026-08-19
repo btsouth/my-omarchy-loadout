@@ -4,7 +4,7 @@
   "name": "Tyler's Omarchy",
   "author": "Tyler South",
   "description": "",
-  "createdAt": "2026-08-19T23:04:43Z",
+  "createdAt": "2026-08-19T23:13:49Z",
   "omarchy": "4.0.0.alpha",
   "packages": {
     "native": [
@@ -178,7 +178,12 @@
       "stably-orca-bin"
     ]
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "id": "tsouth89.resurrect",
+      "url": "https://github.com/tsouth89/omarchy-resurrect"
+    }
+  ],
   "webapps": [
     {
       "name": "Basecamp",

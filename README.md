@@ -1,7 +1,7 @@
 # Tyler's Omarchy
 
 An [Omarchy](https://omarchy.org) loadout: 165 packages, 1 from the AUR,
-0 shell plugins, 9 web apps, on the `lumon` theme.
+1 shell plugins, 9 web apps, on the `lumon` theme.
 
 Make your machine look like this one:
 
