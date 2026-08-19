@@ -6,7 +6,7 @@ An [Omarchy](https://omarchy.org) loadout: 165 packages, 1 from the AUR,
 Make your machine look like this one:
 
 ```bash
-omarchy-resurrect apply <this-repo-url>
+ress apply <this-repo-url>
 ```
 
 It shows you everything it would install and asks before it installs any of it.

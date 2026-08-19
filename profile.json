@@ -3,8 +3,8 @@
   "kind": "omarchy-loadout",
   "name": "Tyler's Omarchy",
   "author": "Tyler South",
-  "description": "Daily driver: Neovim, Hyprland, a lot of terminals.",
-  "createdAt": "2026-08-19T22:55:27Z",
+  "description": "",
+  "createdAt": "2026-08-19T23:04:43Z",
   "omarchy": "4.0.0.alpha",
   "packages": {
     "native": [
