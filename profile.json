@@ -4,7 +4,7 @@
   "name": "Tyler's Omarchy",
   "author": "Tyler South",
   "description": "",
-  "createdAt": "2026-08-20T01:36:20Z",
+  "createdAt": "2026-08-20T01:36:41Z",
   "omarchy": "4.0.0.alpha",
   "packages": {
     "native": [
@@ -181,7 +181,8 @@
   "plugins": [
     {
       "id": "tsouth89.resurrect",
-      "url": "https://github.com/tsouth89/omarchy-resurrect"
+      "url": "https://github.com/tsouth89/omarchy-resurrect",
+      "commit": "f5091ed7fa9d9bb05d381a5f38def668abb3913d"
     }
   ],
   "webapps": [
