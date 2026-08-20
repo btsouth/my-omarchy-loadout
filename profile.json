@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "omarchy-loadout",
-  "name": "Tyler's Omarchy",
+  "name": "bts's Omarchy",
   "author": "Tyler South",
   "description": "",
-  "createdAt": "2026-08-20T01:36:41Z",
+  "createdAt": "2026-08-20T01:37:08Z",
   "omarchy": "4.0.0.alpha",
   "packages": {
     "native": [
