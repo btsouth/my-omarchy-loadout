@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "omarchy-loadout",
-  "name": "Tyler's Omarchy",
+  "name": "bts's Omarchy",
   "author": "Tyler South",
-  "description": "My daily Omarchy setup: Hyprland, Neovim, a lot of terminals.",
-  "createdAt": "2026-08-19T23:30:59Z",
+  "description": "",
+  "createdAt": "2026-08-20T01:16:57Z",
   "omarchy": "4.0.0.alpha",
   "packages": {
     "native": [
