@@ -181,7 +181,7 @@
   "plugins": [
     {
       "id": "tsouth89.resurrect",
-      "url": "https://github.com/tsouth89/omarchy-resurrect",
+      "url": "https://github.com/btsouth/omarchy-resurrect",
       "commit": "f5091ed7fa9d9bb05d381a5f38def668abb3913d"
     }
   ],
